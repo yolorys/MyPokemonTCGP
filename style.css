@@ -181,8 +181,8 @@ a {
   height: auto;
 }
 
-
-@media (max-width: 1024px) {
+/*Laptop*/
+@media (max-width: 1920px) {
   .containerOne,
   .containerTwo,
   .containerFour {
@@ -234,7 +234,7 @@ a {
   }
 }
 
-
+/*iPhone*/
 @media (max-width: 768px) {
   .containerOne,
   .containerTwo,
